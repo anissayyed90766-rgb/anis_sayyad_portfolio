@@ -1,0 +1,6 @@
+{
+  "name": "anis-sayyad-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animated portfolio - static site with a small Vercel API for the admin panel"
+}

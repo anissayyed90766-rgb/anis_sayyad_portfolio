@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "hero": {
+    "navLeft": "DATA ANALYSIS, MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE",
+    "navRight": "AVAILABLE FOR FREELANCE",
+    "greeting": "Hello, I'm",
+    "name": "ANIS\nSAYYAD",
+    "title": "DATA ANALYSIS, MACHINE LEARNING\n& ARTIFICIAL INTELLIGENCE",
+    "desc": "Software Engineer | Data Analyst | Machine Learning Expert Passionate Software Engineer specializing in Data Analysis, Machine Learning, Python, SQL, and AI. I transform complex data into meaningful insights and build intelligent, data-driven solutions to solve real-world problems.",
+    "badge": "AVAILABLE For Work",
+    "tagline": "Turning ideas into powerful digital experiences."
+  },
+  "stats": [
+    { "num": "1+", "label": "YEARS\nEXPERIENCE" },
+    { "num": "2+", "label": "PROJECTS\nCOMPLETED" }
+  ],
+  "projects": [
+    { "id": "p1", "title": "MUSHOO MART", "category": "FASHION E-COMMERCE", "url": "https://github.com/anissayyed90766-rgb/mushoo.git", "image": "WhatsApp Image 2026-08-26 at 8.37.35 PM (1).jpeg" },
+    { "id": "p2", "title": "JARVIS", "category": "AI ASSISTANT", "url": "https://github.com/anissayyed90766-rgb/jarvis-ai-assistance-.git", "image": "WhatsApp Image 2026-08-26 at 8.38.03 PM (1).jpeg" },
+    { "id": "p3", "title": "GALAXY PVC PANELS", "category": "BUSINESS WEBSITE / WEB DEVELOPMENT", "url": "https://galaxy-pvc-panels.onrender.com", "image": "images/galaxy-pvc-panels.jpg" },
+    { "id": "p4", "title": "EDU MIND", "category": "EDUCATIONAL PLATFORM / STREAMLIT", "url": "https://edu-mind1203.streamlit.app/", "image": "images/edumind-ai.jpg" },
+    { "id": "p5", "title": "COMPESA EVENT INTELLIGENCE", "category": "AI / EVENT INTELLIGENCE PLATFORM", "url": "https://compesa-event-intelligence.onrender.com/", "image": "images/compesa-event-intelligence.jpg" }
+  ],
+  "education": [
+    { "title": "Diploma in Computer Engineering", "place": "Sharad Institute of Polytechnic", "year": "2024 - 2027" }
+  ],
+  "skills": ["DATA ANALYSIS", "MACHINE LEARNING", "ARTIFICIAL INTELLIGENCE", "HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP", "Communication", "Teamwork"],
+  "process": [
+    { "icon": "🔍", "title": "DISCOVER", "text": "Understanding goals, audience, and project requirements." },
+    { "icon": "💡", "title": "IDEATE", "text": "Planning, wireframing, and creating the right concept." },
+    { "icon": "✎", "title": "DESIGN", "text": "Crafting visual design with a focus on user experience." },
+    { "icon": "</>", "title": "DEVELOP", "text": "Building fast, responsive, and high-performing websites." },
+    { "icon": "🚀", "title": "DELIVER", "text": "Testing, optimizing, and launching with perfection." }
+  ],
+  "quote": {
+    "text": "Good design is not just how it looks, but how it works.",
+    "signature": "ANIS",
+    "footer": "LET'S CREATE\nSOMETHING GREAT\nTOGETHER."
+  },
+  "contact": {
+    "heading": "LET'S WORK\nTOGETHER",
+    "text": "I'm currently open for new projects and collaborations. Let's create something amazing that drives results.",
+    "email": "anissayyad90766@gmail.com",
+    "phone": "+91 7057477861",
+    "address": "Vikram Nagar,Shapur Road,Ichalkaranji",
+    "whatsapp": "917057477861"
+  },
+  "socials": {
+    "instagram": "http://instagram.com/anis_sayyad01?utm_source=qr&igsi=M2FkeXdtZnEzN3h2",
+    "linkedin": "https://www.linkedin.com/in/anis-sayyad-686173414?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+  },
+  "footer": { "copyright": "© 2026 ANIS SAYYAD. All Rights Reserved." }
+}
